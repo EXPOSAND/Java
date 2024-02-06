@@ -2,10 +2,8 @@ package com.mycompany.holamundo;
 //PASO1: Importo la clase java.util
 import java.util.Scanner;
 
-
 public class SumaPideValores {
-
-    
+	
     public static void main(String[] args) {
         //Para solicitar datos a los usuarios por consola
         //necesitamso usar un Objeto (Sera una variable, por ahora) Scanner
